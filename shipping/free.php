@@ -1,5 +1,5 @@
 <?php
 // Text
-$_['text_title']       = 'Free Shipping';
-$_['text_description'] = 'Free Shipping';
+$_['text_title']       = 'ফ্রি বিলি';
+$_['text_description'] = 'ফ্রি বিলি';
 ?>

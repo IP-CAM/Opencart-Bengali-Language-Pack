@@ -1,4 +1,7 @@
-<?php
-// Text
-$_['text_voucher'] = 'Voucher(%s)';
+<?php
+
+// Text
+
+$_['text_voucher'] = 'রসিদ(%s)';
+
 ?>

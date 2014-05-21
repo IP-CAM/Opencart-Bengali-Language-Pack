@@ -1,72 +1,72 @@
 <?php
 // Heading  
-$_['heading_title']          = 'Shopping Cart';
+$_['heading_title']          = 'শপিং কার্ট';
 
 // Text
-$_['text_success']           = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['text_remove']            = 'Success: You have modified your shopping cart!';
-$_['text_coupon']            = 'Success: Your coupon discount has been applied!';
-$_['text_voucher']           = 'Success: Your gift voucher discount has been applied!';
-$_['text_reward']            = 'Success: Your reward points discount has been applied!';
-$_['text_shipping']          = 'Success: Your shipping estimate has been applied!';
-$_['text_login']             = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
-$_['text_points']            = 'Reward Points: %s';
-$_['text_items']             = '%s item(s) - %s';
-$_['text_next']              = 'What would you like to do next?';
-$_['text_next_choice']       = 'Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.';
-$_['text_use_coupon']        = 'Use Coupon Code';
-$_['text_use_voucher']       = 'Use Gift Voucher';
-$_['text_use_reward']        = 'Use Reward Points (Available %s)';
-$_['text_shipping_estimate'] = 'Estimate Shipping &amp; Taxes';
-$_['text_shipping_detail']   = 'Enter your destination to get a shipping estimate.';
-$_['text_shipping_method']   = 'Please select the preferred shipping method to use on this order.';
-$_['text_empty']             = 'Your shopping cart is empty!';
-$_['text_until_cancelled']   = 'until cancelled';
-$_['text_recurring_item']    = 'Recurring item';
-$_['text_payment_profile']   = 'Payment Profile';
-$_['text_trial_description'] = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_until_canceled_description'] = '%s every %d %s(s) until canceled';
-$_['text_day']               = 'day';
-$_['text_week']              = 'week';
-$_['text_semi_month']        = 'half-month';
-$_['text_month']             = 'month';
-$_['text_year']              = 'year';
+$_['text_success']           = 'অভিনন্দন: আপনি সফলভাবে <a href="%s">%s</a> পণ্যটি <a href="%s">শপিং কার্ট</a> এ যোগ করেছেন!';
+$_['text_remove']            = 'অভিনন্দন: আপনার  শপিং কার্ট টি সফলভাবে পরিবর্তিত হয়েছে!';
+$_['text_coupon']            = 'অভিনন্দন: আপনার কুপন ডিসকাউন্ট প্রয়োগ করা হয়েছে! ';
+$_['text_voucher']           = 'অভিনন্দন: আপনার উপহার ভাউচার ডিসকাউন্ট প্রয়োগ করা হয়েছে! ';
+$_['text_reward']            = 'অভিনন্দন: আপনার পুরস্কার পয়েন্ট ডিসকাউন্ট প্রয়োগ করা হয়েছে!';
+$_['text_shipping']          = 'অভিনন্দন: আপনার শিপিং অনুমান প্রয়োগ করা হয়েছে!';
+$_['text_login']             = 'দৃষ্টি আকর্ষণ: পণ্যটির দাম দেখতে আপনার অ্যাকাউন্ট এ <a href="%s">লগইন</a> অথবা <a href="%s">একটি অ্যাকাউন্ট তৈরি</a> করুন!';
+$_['text_points']            = 'পুরস্কার পয়েন্ট: %s';
+$_['text_items']             = '%s টি পণ্য - %s';
+$_['text_next']              = 'আপনি পরবর্তীতে কি করতে চান?';
+$_['text_next_choice']       = 'আপনার যদি একটি ডিসকাউন্ট কোড অথবা পুরস্কার পয়েন্ট থাকে তাহলে আপনি বিলি খরচ সম্বন্ধে ধারনা পেতে পারেন।';
+$_['text_use_coupon']        = 'কুপন কোডটি ব্যবহার করুন';
+$_['text_use_voucher']       = 'উপহার ভাউচারটি ব্যবহার করুন';
+$_['text_use_reward']        = 'পুরস্কার পয়েন্ট ব্যবহার করুন (সহজলভ্য  %s)';
+$_['text_shipping_estimate'] = 'আনুমানিক বিলি &amp; ট্যাক্স';
+$_['text_shipping_detail']   = 'বিলি অনুমান পেতে আপনার ঠিকানা লিখুন।';
+$_['text_shipping_method']   = 'এই অর্ডার  এর জন্য শিপিং পদ্ধতি নির্বাচন করুন।';
+$_['text_empty']             = 'আপনার শপিং কার্ট খালি!';
+$_['text_until_cancelled']   = 'বাতিল না হওয়া পর্যন্ত';
+$_['text_recurring_item']    = 'পুনরাবৃত্ত পণ্য';
+$_['text_payment_profile']   = 'পেমেন্ট প্রোফাইল ';
+$_['text_trial_description'] = '%s প্রতিটি %d %s জন্য %d পেমেন্ট';
+$_['text_payment_description'] = '%s প্রতিটি %d %s(s) জন্য %d পেমেন্ট';
+$_['text_payment_until_canceled_description'] = '%s প্রতিটি %d %s(s) বাতিল না হওয়া পর্যন্ত';
+$_['text_day']               = 'দিন';
+$_['text_week']              = 'সপ্তাহ';
+$_['text_semi_month']        = 'অর্ধ মাস ';
+$_['text_month']             = 'মাস';
+$_['text_year']              = 'বছর';
 
 // Column
-$_['column_image']           = 'Image';
-$_['column_name']            = 'Product Name';
-$_['column_model']           = 'Model';
-$_['column_quantity']        = 'Quantity';
-$_['column_price']           = 'Unit Price';
-$_['column_total']           = 'Total';
+$_['column_image']           = 'ইমেজ';
+$_['column_name']            = 'পণ্যের নাম';
+$_['column_model']           = 'মডেল';
+$_['column_quantity']        = 'পরিমাণ';
+$_['column_price']           = 'একক মূল্য';
+$_['column_total']           = 'মোট';
 
 // Entry
-$_['entry_coupon']           = 'Enter your coupon here:';
-$_['entry_voucher']          = 'Enter your gift voucher code here:';
-$_['entry_reward']           = 'Points to use (Max %s):';
-$_['entry_country']          = 'Country:';
-$_['entry_zone']             = 'Region / State:';
-$_['entry_postcode']         = 'Post Code:';
+$_['entry_coupon']           = 'এখানে আপনার কুপন লিখুন:';
+$_['entry_voucher']          = 'এখানে আপনার উপহার ভাউচার কোড লিখুন:';
+$_['entry_reward']           = 'পয়েন্ট ব্যবহার করুন (সর্বোচ্চ %s):';
+$_['entry_country']          = 'দেশ:';
+$_['entry_zone']             = 'অঞ্চল / রাজ্য:';
+$_['entry_postcode']         = 'পোস্ট কোড:';
 
 // Error
-$_['error_stock']            = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']          = 'Minimum order amount for %s is %s!';	
-$_['error_required']         = '%s required!';	
-$_['error_product']          = 'Warning: There are no products in your cart!';	
-$_['error_coupon']           = 'Warning: Coupon is either invalid, expired or reached it\'s usage limit!';
-$_['error_voucher']          = 'Warning: Gift Voucher is either invalid or the balance has been used up!';
-$_['error_reward']           = 'Warning: Please enter the amount of reward points to use!';	
-$_['error_points']           = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum']          = 'Warning: The maximum number of points that can be applied is %s!';
-$_['error_postcode']         = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']          = 'Please select a country!';
-$_['error_zone']             = 'Please select a region / state!';
-$_['error_shipping']         = 'Warning: Shipping method required!';
-$_['error_no_shipping']      = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
-$_['error_profile_required'] = 'Please select a payment profile!';
+$_['error_stock']            = '*** চিহ্নিত পণ্য কাঙ্ক্ষিত পরিমাণে মজুত নেই।';
+$_['error_minimum']          = 'সর্বনিম্ন অর্ডার এর পরিমাণ % গুলি হল % s এর জন্য!';
+$_['error_required']         = '%s প্রয়োজনীয়';
+$_['error_product']          = 'সতর্কবার্তা: আপনার কার্টে কোন পণ্য  নেই!';
+$_['error_coupon']           = 'সতর্কবার্তা: কুপনটি অবৈধ, মেয়াদ শেষ অথবা এটি  ব্যবহারের সীমা অতিক্রম করেছে! ';
+$_['error_voucher']          = 'সতর্কবার্তা: উপহার ভাউচার অবৈধ বা আপনার ব্যালানস শেষ হয়েছে!';
+$_['error_reward']           = 'সতর্কবার্তা: আপনি কি পরিমাণ পুরস্কার পয়েন্ট ব্যবহার করতে চান সেটা লিখুন! ';
+$_['error_points']           = 'সতর্কবার্তা: আপনার কোন পুরস্কার পয়েন্ট নেই! ';
+$_['error_maximum']          = 'সতর্কবার্তা: আপনি সর্বোচ্চ %s সংখ্যক পুরস্কার পয়েন্ট প্রয়োগ করতে পারবেন!';
+$_['error_postcode']         = 'পোস্ট কোড ২ এবং ১০ অক্ষরের মধ্যে হতে হবে! ';
+$_['error_country']          = 'আপনার দেশ নির্বাচন করুন! ';
+$_['error_zone']             = 'আপনার অঞ্চল / রাজ্য নির্বাচন করুন! ';
+$_['error_shipping']         = 'সতর্কবার্তা: বিলি পদ্ধতি প্রয়োজন! ';
+$_['error_no_shipping']      = 'সতর্কবার্তা: কোন বিলি পদ্ধতি নেই। যেকোনো সহায়তার জন্য আমাদের সাথে <a href="%s">যোগাযোগ </a> করুন! ';
+$_['error_profile_required'] = 'পেমেন্ট প্রোফাইল নির্বাচন করুন! ';
 
-$_['text_trial']             = '%s every %s %s for %s payments then ';
-$_['text_recurring']         = '%s every %s %s';
-$_['text_length']            = ' for %s payments';
+$_['text_trial']             = '%s প্রতিটি %s %s জন্য %s পেমেন্ট ';
+$_['text_recurring']         = '%s প্রতিটি %s %s';
+$_['text_length']            = ' জন্য %s পেমেন্ট';
 ?>

@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject']  = '%s - New Password';
-$_['text_greeting'] = 'A new password was requested from %s.';
-$_['text_password'] = 'Your new password to is:';
+$_['text_subject']  = '%s - নতুন পাসওয়ার্ড';
+$_['text_greeting'] = 'একটি নতুন পাসওয়ার্ড অনুরোধ করা হয়েছে %s.';
+$_['text_password'] = 'আপনার নতুন পাসওয়ার্ড  :';
 ?>

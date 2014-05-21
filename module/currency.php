@@ -1,4 +1,7 @@
-<?php
-// Text
-$_['text_currency'] = 'Currency';
+<?php
+
+// Text
+
+$_['text_currency'] = 'মুদ্রা';
+
 ?>

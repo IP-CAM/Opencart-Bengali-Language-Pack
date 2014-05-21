@@ -1,62 +1,62 @@
 <?php
 // Text
-$_['text_search']       = 'Search';
-$_['text_brand']        = 'Brand';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:';
-$_['text_reward']       = 'Reward Points:'; 
-$_['text_points']       = 'Price in reward points:';
-$_['text_stock']        = 'Availability:';
-$_['text_instock']      = 'In Stock';
-$_['text_price']        = 'Price:'; 
-$_['text_tax']          = 'Ex Tax:'; 
-$_['text_discount']     = '%s or more %s';
-$_['text_option']       = 'Available Options';
-$_['text_qty']          = 'Qty:';
-$_['text_minimum']      = 'This product has a minimum quantity of %s';
-$_['text_or']           = '- OR -';
-$_['text_reviews']      = '%s reviews'; 
-$_['text_write']        = 'Write a review';
-$_['text_no_reviews']   = 'There are no reviews for this product.';
-$_['text_on']           = ' on ';
-$_['text_note']         = '<span style="color: #FF0000;">Note:</span> HTML is not translated!';
-$_['text_share']        = 'Share';
-$_['text_success']      = 'Thank you for your review. It has been submitted to the webmaster for approval.';
-$_['text_upload']       = 'Your file was successfully uploaded!';
-$_['text_wait']         = 'Please Wait!';
-$_['text_tags']         = 'Tags:';
-$_['text_error']        = 'Product not found!';
-$_['text_payment_profile'] = 'Payment Profiles';
+$_['text_search']       = 'অনুসন্ধান';
+$_['text_brand']        = 'ব্র্যান্ড';
+$_['text_manufacturer'] = 'ব্র্যান্ডঃ';
+$_['text_model']        = 'পণ্য কোডঃ';
+$_['text_reward']       = 'পুরস্কার পয়েন্টঃ';
+$_['text_points']       = 'পুরস্কার পয়েন্টের দামঃ';
+$_['text_stock']        = 'উপস্থিতি';
+$_['text_instock']      = 'ইন স্টক';
+$_['text_price']        = 'মূল্য'; 
+$_['text_tax']          = 'অতিরিক্ত ট্যাক্স';  
+$_['text_discount']     = '%s বা তার বেশি %s';
+$_['text_option']       = 'ব্যবহারযোগ্য বিকল্প';
+$_['text_qty']          = 'পরিমাণঃ';
+$_['text_minimum']      = 'এই পণ্যের সর্বনিম্ন পরিমাণ %s';
+$_['text_or']           = '- অথবা -';
+$_['text_reviews']      = '%s পরিদর্শন'; 
+$_['text_write']        = 'পর্যালোচনা লিখুন';
+$_['text_no_reviews']   = 'এই পণ্যের জন্য কোনো পর্যালোচনা নেই।';
+$_['text_on']           = ' উপর ';
+$_['text_note']         = '<span style="color: #FF0000;">নোটঃ</span> এইচটিএমএল অনুবাদ করা হয়নি';
+$_['text_share']        = 'প্রচার';
+$_['text_success']      = 'পর্যালোচনা করার জন্য আপনাকে ধন্যবাদ. এটি অনুমোদনের জন্য ওয়েবমাস্টারকে পাঠানো হয়েছে.';
+$_['text_upload']       = 'আপনার ফাইলটি সফলভাবে আপলোড করা হয়েছে!';
+$_['text_wait']         = 'অপেক্ষা করুন!';
+$_['text_tags']         = 'ট্যাগসমূহ:';
+$_['text_error']        = 'পণ্য পাওয়া যায়নি!';
+$_['text_payment_profile'] = 'পেমেন্ট প্রোফাইল';
 
 $_['text_trial_description'] = '%s every %d %s(s) for %d payment(s) then';
 $_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
 $_['text_payment_until_canceled_description'] = '%s every %d %s(s) until canceled';
-$_['text_day'] = 'day';
-$_['text_week'] = 'week';
-$_['text_semi_month'] = 'half-month';
-$_['text_month'] = 'month';
-$_['text_year'] = 'year';
+$_['text_day'] = 'দিন';
+$_['text_week'] = 'সপ্তাহ';
+$_['text_semi_month'] = 'অর্ধ মাস';
+$_['text_month'] = 'মাস';
+$_['text_year'] = 'বছর';
 
 // Entry
-$_['entry_name']        = 'Your Name:';
-$_['entry_review']      = 'Your Review:';
-$_['entry_rating']      = 'Rating:';
-$_['entry_good']        = 'Good';
-$_['entry_bad']         = 'Bad';
-$_['entry_captcha']     = 'Enter the code in the box below:';
+$_['entry_name']        = 'আপনার নামঃ';
+$_['entry_review']      = 'আপনার পর্যালোচনাঃ';
+$_['entry_rating']      = 'গুণগত মানঃ';
+$_['entry_good']        = 'ভালো';
+$_['entry_bad']         = 'খারাপ';
+$_['entry_captcha']     = 'নিচের বাক্সে কোডটি লিখুন:';
 
 // Tabs
-$_['tab_description']   = 'Description';
-$_['tab_attribute']     = 'Specification';
-$_['tab_review']        = 'Reviews (%s)';
-$_['tab_related']       = 'Related Products'; 
+$_['tab_description']   = 'বিবরণ';
+$_['tab_attribute']     = 'নির্দিষ্টকরণ';
+$_['tab_review']        = 'পরিদর্শন (%s)';
+$_['tab_related']       = 'সম্পর্কিত পণ্য সমূহ'; 
 
 // Error
-$_['error_name']        = 'Warning: Review Name must be between 3 and 25 characters!';
-$_['error_text']        = 'Warning: Review Text must be between 25 and 1000 characters!';
-$_['error_rating']      = 'Warning: Please select a review rating!';
-$_['error_captcha']     = 'Warning: Verification code does not match the image!';
-$_['error_upload']      = 'Upload required!';
-$_['error_filename']    = 'Filename must be between 3 and 64 characters!';
-$_['error_filetype']    = 'Invalid file type!';
+$_['error_name']        = 'সতর্কতা: পর্যালোচনা ৩ এবং ২৫ অক্ষরের মধ্যে হতে হবে!';
+$_['error_text']        = 'সতর্কতা: পর্যালোচনা শিরোনাম ২৫ এবং ১০০০ অক্ষরের মধ্যে হতে হবে!';
+$_['error_rating']      = 'সতর্কবাণী: একটি পর্যালোচনা রেটিং নির্বাচন করুন!';
+$_['error_captcha']     = 'সতর্কতা: যাচাইকরণ কোড চিত্র মেলে না!';
+$_['error_upload']      = 'আপলোড প্রয়োজন!';
+$_['error_filename']    = 'ফাইলনাম ৩ এবং ৬৪ অক্ষরের মধ্যে হতে হবে!';
+$_['error_filetype']    = 'ফাইল টাইপ সঠিক নয়!';
 ?>

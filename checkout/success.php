@@ -1,11 +1,1 @@
-<?php
-// Heading
-$_['heading_title'] = 'Your Order Has Been Processed!';
-
-// Text
-$_['text_customer'] = '<p>Your order has been successfully processed!</p><p>You can view your order history by going to the <a href="%s">my account</a> page and by clicking on <a href="%s">history</a>.</p><p>If your purchase has an associated download, you can go to the account <a href="%s">downloads</a> page to view them.</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
-$_['text_guest']    = '<p>Your order has been successfully processed!</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
-$_['text_basket']   = 'Shopping Cart';
-$_['text_checkout'] = 'Checkout';
-$_['text_success']  = 'Success';
-?>
+<?php// Heading$_['heading_title'] = 'আপনার অর্ডারটি প্রক্রিয়াজাত করা হয়েছে! ';// Text$_['text_customer'] = '<p>আপনার অর্ডারটি সফলভাবে প্রক্রিয়াজাত করা হয়েছে! </p><p>আপনার অর্ডারটি দেখতে  <a href="%s">আমার অ্যাকাউন্ট</a> পেজে যান এবং <a href="%s">আমার অর্ডার সমূহ</a> লিঙ্কটিতে ক্লিক করুন।</p><p>যদি আপনি কোন ডিজিটাল পণ্য কিনে থাকেন তাহলে এই <a href="%s">ডাউনলোড</a> লিঙ্ক এ ক্লিক করুন। </p> <p>আপনার যদি কোন সমস্যা থাকে তাহলে আমাদের সাথে <a href="%s">যোগাযোগ</a> করুন।</p> <p>আমাদের সাথে কেনাকাটা করার জন্য আপনাকে ধন্যবাদ!</p>';$_['text_guest']    = '<p>আপনার অর্ডারটি সফলভাবে প্রক্রিয়াজাত করা হয়েছে!</p><p>আপনার যদি কোন সমস্যা থাকে তাহলে আমাদের সাথে <a href="%s">যোগাযোগ</a> করুন।</p><p>আমাদের সাথে কেনাকাটা করার জন্য আপনাকে ধন্যবাদ!</p>';$_['text_basket']   = 'শপিং কার্ট';$_['text_checkout'] = 'চেকআউট';$_['text_success']  = 'অভিনন্দন';?>

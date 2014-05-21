@@ -1,8 +1,8 @@
 <?php
 //Order totals
-$_['lang_shipping']     = 'Shipping';
-$_['lang_discount']     = 'Discount';
-$_['lang_tax']          = 'Tax';
-$_['lang_subtotal']     = 'Sub-total';
-$_['lang_total']        = 'Total';
+$_['lang_shipping']     = 'শিপিং';
+$_['lang_discount']     = 'ডিসকাউন্ট';
+$_['lang_tax']          = 'ট্যাক্স';
+$_['lang_subtotal']     = 'উপ-সমষ্টি';
+$_['lang_total']        = 'মোট';
 ?>

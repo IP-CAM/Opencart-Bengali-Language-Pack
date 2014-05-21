@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_title']       = 'Bank Transfer';
-$_['text_instruction'] = 'Bank Transfer Instructions';
-$_['text_description'] = 'Please transfer the total amount to the following bank account.';
-$_['text_payment']     = 'Your order will not ship until we receive payment.';
+$_['text_title']       = 'ব্যাংক ট্রান্সফার';
+$_['text_instruction'] = 'ব্যাংক ট্রান্সফার  নির্দেশবলী';
+$_['text_description'] = 'নিম্নলিখিত ব্যাংক একাউন্টে মোট পরিমাণ হস্তান্তর করুন.';
+$_['text_payment']     = 'পেমেন্ট নিশ্চিত না হওয়া পর্যন্ত আপনার অর্ডারটি বিলি করা হবেনা।';
 ?>

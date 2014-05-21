@@ -1,4 +1,7 @@
-<?php
-// Text
-$_['text_language'] = 'Language';
+<?php
+
+// Text
+
+$_['text_language'] = 'ভাষা';
+
 ?>

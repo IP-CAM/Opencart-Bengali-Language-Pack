@@ -1,28 +1,28 @@
 <?php
 // Heading
-$_['heading_title']  = 'Contact Us';
+$_['heading_title']  = 'যোগাযোগ';
 
 // Text 
-$_['text_location']  = 'Our Location';
-$_['text_contact']   = 'Contact Form';
-$_['text_address']   = 'Address:';
-$_['text_email']     = 'E-Mail:';
-$_['text_telephone'] = 'Telephone:';
-$_['text_fax']       = 'Fax:';
-$_['text_message']   = '<p>Your enquiry has been successfully sent to the store owner!</p>';
+$_['text_location']  = 'আমাদের অবস্থান';
+$_['text_contact']   = 'যোগাযোগ';
+$_['text_address']   = 'ঠিকানা:';
+$_['text_email']     = 'ইমেইল:';
+$_['text_telephone'] = 'টেলিফোন:';
+$_['text_fax']       = 'ফ্যাক্স:';
+$_['text_message']   = '<p> আপনার জিজ্ঞাসা সফলভাবে  পাঠানো হয়েছে!</p>';
 
 // Entry Fields
-$_['entry_name']     = 'First Name:';
-$_['entry_email']    = 'E-Mail Address:';
-$_['entry_enquiry']  = 'Enquiry:';
-$_['entry_captcha']  = 'Enter the code in the box below:';
+$_['entry_name']     = 'প্রথম নাম:';
+$_['entry_email']    = 'ইমেইল:';
+$_['entry_enquiry']  = 'অনুসন্ধান:';
+$_['entry_captcha']  = 'নিচের বাক্সে কোডটি লিখুন:';
 
 // Email
-$_['email_subject']  = 'Enquiry %s';
+$_['email_subject']  = 'অনুসন্ধান %s';
 
 // Errors
-$_['error_name']     = 'Name must be between 3 and 32 characters!';
-$_['error_email']    = 'E-Mail Address does not appear to be valid!';
-$_['error_enquiry']  = 'Enquiry must be between 10 and 3000 characters!';
-$_['error_captcha']  = 'Verification code does not match the image!';
+$_['error_name']     = 'নাম ৩ এবং ৩২ অক্ষরের মধ্যে হতে হবে!';
+$_['error_email']    = 'ইমেইল ঠিকানাটি বৈধ বলে মনে হচ্ছেনা!';
+$_['error_enquiry']  = 'অনুসন্ধান ১০ এবং ৩০০০ অক্ষরের মধ্যে হতে হবে!';
+$_['error_captcha']  = 'যাচাইকরণ কোড চিত্র মেলে না!';
 ?>

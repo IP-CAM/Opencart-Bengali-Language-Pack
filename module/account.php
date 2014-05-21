@@ -1,21 +1,21 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Account';
+$_['heading_title']    = 'অ্যাকাউন্ট';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_address']     = 'Address Books';
-$_['text_wishlist']    = 'Wish List';
-$_['text_order']       = 'Order History';
-$_['text_download']    = 'Downloads';
-$_['text_return']      = 'Returns';
-$_['text_transaction'] = 'Transactions';
-$_['text_newsletter']  = 'Newsletter';
-$_['text_recurring']   = 'Recurring payments';
+$_['text_register']    = 'রেজিস্টার';
+$_['text_login']       = 'লগইন';
+$_['text_logout']      = 'লগ আউট';
+$_['text_forgotten']   = 'পাসওয়ার্ড ভুলে গেছেন';
+$_['text_account']     = 'আমার অ্যাকাউন্ট';
+$_['text_edit']        = 'অ্যাকাউন্ট পরিবর্তন';
+$_['text_password']    = 'পাসওয়ার্ড';
+$_['text_address']     = 'ঠিকানা';
+$_['text_wishlist']    = 'পছন্দের তালিকা';
+$_['text_order']       = 'পূর্বের অর্ডার';
+$_['text_download']    = 'ডাউনলোড';
+$_['text_return']      = 'ফেরৎ';
+$_['text_transaction'] = 'লেনদেন';
+$_['text_newsletter']  = 'নিউজলেটার';
+$_['text_recurring']   = 'আবর্তক পেমেন্ট';
 ?>

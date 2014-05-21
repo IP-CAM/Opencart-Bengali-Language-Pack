@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_error'] = 'Information Page Not Found!';
+$_['text_error'] = 'তথ্য পেজটি পাওয়া যায়নি!';
 ?>

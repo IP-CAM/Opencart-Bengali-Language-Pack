@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']    = 'Site Map';
+$_['heading_title']    = 'সাইটমাপ';
 
 // Text
-$_['text_special']     = 'Special Offers';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Account Information';
-$_['text_password']    = 'Password';
-$_['text_address']     = 'Address Book';
-$_['text_history']     = 'Order History';
-$_['text_download']    = 'Downloads';
-$_['text_cart']        = 'Shopping Cart';
-$_['text_checkout']    = 'Checkout';
-$_['text_search']      = 'Search';
-$_['text_information'] = 'Information';
-$_['text_contact']     = 'Contact Us';
+$_['text_special']     = 'বিশেষ অফার';
+$_['text_account']     = 'আমার অ্যাকাউন্ট';
+$_['text_edit']        = 'অ্যাকাউন্ট তথ্য';
+$_['text_password']    = 'পাসওয়ার্ড';
+$_['text_address']     = 'ঠিকানা';
+$_['text_history']     = 'অর্ডার হিস্টরি';
+$_['text_download']    = 'ডউনলোড';
+$_['text_cart']        = 'শপিং কার্ট';
+$_['text_checkout']    = 'চেকআউট';
+$_['text_search']      = 'অনুসন্ধান';
+$_['text_information'] = 'তথ্য';
+$_['text_contact']     = 'যোগাযোগ';
 ?>

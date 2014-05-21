@@ -1,23 +1,45 @@
-<?php
-// Heading
-$_['heading_title']     = 'Product Comparison';
-
-// Text
-$_['text_product']      = 'Product Details';
-$_['text_name']         = 'Product';
-$_['text_image']        = 'Image';
-$_['text_price']        = 'Price';
-$_['text_model']        = 'Model';
-$_['text_manufacturer'] = 'Brand';
-$_['text_availability'] = 'Availability';
-$_['text_instock']      = 'In Stock';
-$_['text_rating']       = 'Rating';
-$_['text_reviews']      = 'Based on %s reviews.';
-$_['text_summary']      = 'Summary';
-$_['text_weight']       = 'Weight';
-$_['text_dimension']    = 'Dimensions (L x W x H)';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_success']      = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">product comparison</a>!';
-$_['text_remove']       = 'Success: You have modified your product comparison!';
-$_['text_empty']        = 'You have not chosen any products to compare.';
+<?php
+
+// Heading
+
+$_['heading_title']     = 'পণ্য তুলনা';
+
+
+
+// Text
+
+$_['text_product']      = 'পণ্য বিবরণ';
+
+$_['text_name']         = 'পণ্য';
+
+$_['text_image']        = 'ছবি';
+
+$_['text_price']        = 'মূল্য';
+
+$_['text_model']        = 'মডেল';
+
+$_['text_manufacturer'] ='ব্র্যান্ড';
+
+$_['text_availability'] = 'উপস্থিতি';
+
+$_['text_instock']      = 'ইন স্টক';
+
+$_['text_rating']       = 'মূল্যনির্ধারণ';
+
+$_['text_reviews']      = 'পর্যালোচনার উপর নির্ভর করে  %s ';
+
+$_['text_summary']      = 'সারাংশ';
+
+$_['text_weight']       = 'ওজন';
+
+$_['text_dimension']    = 'মাত্রা (L x W x H)';
+
+$_['text_compare']      = 'পণ্য তুলনা (%s)';
+
+$_['text_success']      = 'সাফল্যঃ আপনি  <a href="%s">%s</a> পণ্য তুলনায় <a href="%s"> যোগ করেছেন</a>!';
+
+$_['text_remove']       = 'সাফল্যঃ  আপনার পণ্য তুলনা পরিবর্তিত হয়েছে!';
+
+$_['text_empty']        = 'তুলনা করার জন্যে কোনো পণ্য নির্বাচিত করেন নাই।';
+
 ?>

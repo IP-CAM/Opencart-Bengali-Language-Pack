@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Affiliate Program';
-$_['text_welcome']  = 'Thank you for joining the %s Affiliate Program!';
-$_['text_approval'] = 'Your account must be approved before you can login. Once approved you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_services'] = 'Upon logging in, you will be able to generate tracking codes, track commission payments and edit your account information.';
-$_['text_thanks']   = 'Thanks,';
+$_['text_subject']  = '%s - আফিলেইট';
+$_['text_welcome']  = 'আপনাকে ধন্যবাদ %s আফিলেইটে যোগ দেওয়ার জন্য';
+$_['text_approval'] = 'আপনি লগইন করার আগে আপনার অ্যাকাউন্ট অনুমোদিত হতে হবে.  অনুমোদিত  হইলে আপনি আমাদের ওয়েবসাইট পরিদর্শন করে অথবা নিম্নলিখিত লিংক-এ আপনার ইমেইল ঠিকানা ও পাসওয়ার্ড ব্যবহার করে লগ ইন করতে পারেন :';
+$_['text_services'] = 'লগইন করার পরে, আপনি ট্র্যাকিং কোড, ট্র্যাক কমিশন পেমেন্ট এবং আপনার অ্যাকাউন্ট তথ্য সম্পাদনা করতে পারবেন.';
+$_['text_thanks']   = 'ধন্যবাদ,';
 ?>

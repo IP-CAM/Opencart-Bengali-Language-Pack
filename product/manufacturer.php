@@ -1,32 +1,63 @@
-<?php
-// Heading
-$_['heading_title']     = 'Find Your Favorite Brand';
-
-// Text
-$_['text_brand']        = 'Brand';
-$_['text_index']        = 'Brand Index:';
-$_['text_error']        = 'Brand not found!';
-$_['text_empty']        = 'There are no products to list.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:'; 
-$_['text_points']       = 'Reward Points:'; 
-$_['text_price']        = 'Price:'; 
-$_['text_tax']          = 'Ex Tax:'; 
-$_['text_reviews']      = 'Based on %s reviews.'; 
-$_['text_compare']      = 'Product Compare (%s)'; 
-$_['text_display']      = 'Display:';
-$_['text_list']         = 'List';
-$_['text_grid']         = 'Grid';
-$_['text_sort']         = 'Sort By:';
-$_['text_default']      = 'Default';
-$_['text_name_asc']     = 'Name (A - Z)';
-$_['text_name_desc']    = 'Name (Z - A)';
-$_['text_price_asc']    = 'Price (Low &gt; High)';
-$_['text_price_desc']   = 'Price (High &gt; Low)';
-$_['text_rating_asc']   = 'Rating (Lowest)';
-$_['text_rating_desc']  = 'Rating (Highest)';
-$_['text_model_asc']    = 'Model (A - Z)';
-$_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';
+<?php
+
+// Heading
+
+$_['heading_title']     = 'আপনার প্রিয় ব্র্যান্ড খুঁজুন';
+
+
+
+// Text
+
+$_['text_brand']        = 'ব্র্যান্ড';
+
+$_['text_index']        = 'ব্র্যান্ড সূচিপত্রঃ';
+
+$_['text_error']        = 'ব্র্যান্ড পাওয়া যায়নি!';
+
+$_['text_empty']        = 'তালিকায় কোন পণ্য নেই।';
+
+$_['text_quantity']     = 'পরিমাণঃ';
+
+$_['text_manufacturer'] = 'ব্র্যান্ড';
+
+$_['text_model']        =  'পণ্য কোডঃ'; 
+
+$_['text_points']       = 'পুরস্কার পয়েন্টঃ'; 
+
+$_['text_price']        = 'মূল্যঃ'; 
+
+$_['text_tax']          = 'অতিরিক্ত ট্যাক্স';  
+
+$_['text_reviews']      = 'পর্যালোচনার উপর নির্ভর করে %s ।'; 
+
+$_['text_compare']      = 'পণ্য তুলনা (%s)';  
+
+$_['text_display']      = 'প্রদর্শনঃ';
+
+$_['text_list']         = 'তালিকা';
+
+$_['text_grid']         = 'গ্রিড';
+
+$_['text_sort']         = 'যে অনুযায়ী সাজাবেনঃ';
+
+$_['text_default']      = 'ডিফল্ট';
+
+$_['text_name_asc']     = 'নাম (A - Z)';
+
+$_['text_name_desc']    = 'নাম (Z - A)';
+
+$_['text_price_asc']    = 'মূল্য (Low &gt; High)';
+
+$_['text_price_desc']   = 'মূল্য (High &gt; Low)';
+
+$_['text_rating_asc']   = 'মূল্যনির্ধারণ (Lowest)';
+
+$_['text_rating_desc']  = 'মূল্যনির্ধারণ (Highest)';
+
+$_['text_model_asc']    = 'মডেল (A - Z)';
+
+$_['text_model_desc']   = 'মডেল (Z - A)';
+
+$_['text_limit']        = 'প্রদর্শনীঃ';
+
 ?>

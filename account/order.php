@@ -14,27 +14,27 @@ $_['text_order']            = 'অর্ডার তথ্য';
 
 $_['text_order_detail']     = 'অর্ডার বিবরণ';
 
-$_['text_invoice_no']       = 'রশিদ নং:';
+$_['text_invoice_no']       = 'রশিদ নং ঃ';
 
-$_['text_order_id']         = 'অর্ডার আইডিঃ';
+$_['text_order_id']         = 'অর্ডার আইডি ঃ';
 
-$_['text_status']           = 'অবস্থা:';
+$_['text_status']           = 'অবস্থা ঃ';
 
-$_['text_date_added']       = 'তারিখ:';
+$_['text_date_added']       = 'তারিখ ঃ';
 
-$_['text_customer']         = 'ক্রেতা:';
+$_['text_customer']         = 'ক্রেতা ঃ';
 
-$_['text_shipping_address'] = 'বিলি করার ঠিকানাঃ';
+$_['text_shipping_address'] = 'বিলি করার ঠিকানা ঃ';
 
-$_['text_shipping_method']  = 'বিলি করার পদ্ধতিঃ';
+$_['text_shipping_method']  = 'বিলি করার পদ্ধতি ঃ';
 
-$_['text_payment_address']  = 'পেমেন্ট ঠিকানাঃ';
+$_['text_payment_address']  = 'পেমেন্ট ঠিকানা ঃ';
 
-$_['text_payment_method']   = 'পেমেন্ট পদ্ধতিঃ';
+$_['text_payment_method']   = 'পেমেন্ট পদ্ধতি ঃ';
 
-$_['text_products']         = 'পণ্য সমূহ:';
+$_['text_products']         = 'পণ্য সমূহ ঃ';
 
-$_['text_total']            = 'মোট:';
+$_['text_total']            = 'মোট ঃ';
 
 $_['text_comment']          = 'অর্ডার কমেন্টস';
 
@@ -62,7 +62,7 @@ $_['column_total']          = 'মোট';
 
 $_['column_action']         = 'প্রক্রিয়া';
 
-$_['column_date_added']     = 'সংযুক্তির তারিখ:';
+$_['column_date_added']     = 'সংযুক্তির তারিখ ঃ';
 
 $_['column_status']         = 'অবস্থা';
 

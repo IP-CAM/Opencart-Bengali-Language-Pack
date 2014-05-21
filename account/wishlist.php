@@ -18,24 +18,23 @@ $_['text_login']    = 'আপনার <a href="%s">পছেন্দের ত
 
 $_['text_success']  = 'সাফল্য: আপনি <a href="%s">%s</a> আপনার <a href="%s">পছেন্দের তালিকায়</a> যোগ করেছেন!';
 
-$_['text_remove']   = 'সাফল্য: পছেন্দের তালিকা পরিবর্তন করেছেন।';
+$_['text_remove']   = 'অভিনন্দন ঃ পছেন্দের তালিকা পরিবর্তন করেছেন।';
 
-$_['text_empty']    = 'পছেন্দের তালিকা খালি';
+$_['text_empty']    = 'পছেন্দের তালিকাটি খালি';
 
 
 
 // Column
 
-$_['column_image']  = 'Image';
+$_['column_image']  = 'ছবি';
 
-$_['column_name']   = 'Product Name';
+$_['column_name']   = 'পণ্যের নাম';
 
-$_['column_model']  = 'Model';
+$_['column_model']  = 'মডেল';
 
-$_['column_stock']  = 'Stock';
+$_['column_stock']  = 'স্টক';
 
-$_['column_price']  = 'Unit Price';
+$_['column_price']  = 'মূল্য';
 
-$_['column_action'] = 'Action';
-
+$_['column_action'] = 'প্রক্রিয়া';
 ?>

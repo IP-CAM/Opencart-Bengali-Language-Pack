@@ -2,6 +2,6 @@
 
 // Text
 
-$_['text_coupon'] = 'কুপন(%s)';
+$_['text_coupon'] = 'কুপন (%s)';
 
 ?>

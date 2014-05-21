@@ -2,6 +2,6 @@
 
 // Text
 
-$_['text_voucher'] = 'রসিদ(%s)';
+$_['text_voucher'] = 'রসিদ (%s)';
 
 ?>

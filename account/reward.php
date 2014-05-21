@@ -8,8 +8,8 @@ $_['column_description'] = 'বিবরণ';
 $_['column_points']      = 'পয়েন্ট';
 
 // Text
-$_['text_account']       = 'Account';
+$_['text_account']       = 'অ্যাকাউন্ট';
 $_['text_reward']        = 'পুরস্কার পয়েন্ট';
-$_['text_total']         = 'মোট পুরস্কার পয়েন্ট সংখ্যাঃ';
+$_['text_total']         = 'মোট পুরস্কার পয়েন্ট সংখ্যা ঃ';
 $_['text_empty']         = 'আপনার কোন পুরস্কার পয়েন্ট নেই!';
 ?>

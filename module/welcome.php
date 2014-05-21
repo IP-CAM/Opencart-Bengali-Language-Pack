@@ -1,3 +1,3 @@
 <?php
-$_['heading_title'] = 'স্বাগতম %s';
+$_['heading_title'] = 'স্বাগতম! %s';
 ?>

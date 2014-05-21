@@ -10,7 +10,7 @@ $_['heading_title']     = 'ঠিকানা সমূহ';
 
 $_['text_account']      = 'অ্যাকাউন্ট';
 
-$_['text_address_book'] = 'ঠিকানা সমূহ এইন্ট্রি';
+$_['text_address_book'] = 'প্রদত্ত ঠিকানা সমূহ';
 
 $_['text_edit_address'] = 'ঠিকানা পরিবর্তন করুন';
 
@@ -24,29 +24,29 @@ $_['text_delete']       = 'আপনার ঠিকানা সফলভাব
 
 // Entry
 
-$_['entry_firstname']   = 'নামের প্রথমাংশ:';
+$_['entry_firstname']   = 'নামের প্রথমাংশ ঃ';
 
-$_['entry_lastname']    = 'নামের শেষাংশ:';
+$_['entry_lastname']    = 'নামের শেষাংশ ঃ';
 
-$_['entry_company']     = 'প্রতিষ্ঠান:';
+$_['entry_company']     = 'প্রতিষ্ঠান ঃ';
 
-$_['entry_company_id']  = 'প্রতিষ্ঠান আইডি:';
+$_['entry_company_id']  = 'প্রতিষ্ঠান আইডি ঃ';
 
-$_['entry_tax_id']      = 'ট্যাক্স আইডি:';
+$_['entry_tax_id']      = 'ট্যাক্স আইডি ঃ';
 
-$_['entry_address_1']   = 'ঠিকানা ১:';
+$_['entry_address_1']   = 'ঠিকানা ১ ঃ';
 
-$_['entry_address_2']   = 'ঠিকানা ২::';
+$_['entry_address_2']   = 'ঠিকানা ২ ঃ';
 
-$_['entry_postcode']    = 'পোস্ট কোড:';
+$_['entry_postcode']    = 'পোস্ট কোড ঃ';
 
-$_['entry_city']        = 'শহর:';
+$_['entry_city']        = 'শহর ঃ';
 
-$_['entry_country']     = 'দেশ:';
+$_['entry_country']     = 'দেশ ঃ';
 
-$_['entry_zone']        = 'অঞ্চল / রাজ্য:';
+$_['entry_zone']        = 'অঞ্চল / রাজ্য ঃ';
 
-$_['entry_default']     = 'ডিফল্ট ঠিকানা:';
+$_['entry_default']     = 'ডিফল্ট ঠিকানা ঃ';
 
 
 

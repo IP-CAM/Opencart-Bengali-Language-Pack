@@ -1,6 +1,6 @@
 <?php 
 
-$_['text_sale'] = 'বিক্রি';
+$_['text_sale'] = 'বিক্রয়';
 $_['text_new'] = 'নতুন';
 $_['text_sale_detail'] = 'সেভঃ %s';
 $_['text_contact_us'] = 'যোগাযোগ';

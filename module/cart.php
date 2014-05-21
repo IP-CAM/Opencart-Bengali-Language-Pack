@@ -3,7 +3,7 @@
 $_['heading_title'] = 'শপিং কার্ট';
 
 // Text
-$_['text_items']    = '%s item(s) - %s';
+$_['text_items']    = '%s টি পণ্য - %s';
 $_['text_empty']    = 'আপনার শপিং কার্ট খালি!';
 $_['text_cart']     = 'কার্ট দেখুন';
 $_['text_checkout'] = 'চেকআউট';
